@@ -266,9 +266,6 @@
   margin-top: 5px;
   padding: 5px;
 }
-.swagger-section .swagger-ui-wrap .icon-btn {
-  cursor: pointer;
-}
 .swagger-section .swagger-ui-wrap .info_title {
   padding-bottom: 10px;
   font-weight: bold;
